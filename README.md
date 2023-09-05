@@ -6,6 +6,8 @@
 
 [![Rui Figueiredo GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruifigueiredo&count_private=true&show_icons=true)](https://github.com/ruifigueiredo)
 
+![Rui Figueiredo GitHub stats](https://github-readme-stats.vercel.app/api?username=ruifigueiredo&show_icons=true&theme=transparent)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruifigueiredo&hide=Eagle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruifigueiredo)](https://github.com/anuraghazra/github-readme-stats)
