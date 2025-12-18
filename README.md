@@ -1,3 +1,9 @@
+# Rui Figueiredo
+
+🚀 **Software Developer** | 💻 **Full Stack Engineer** | 🌟 **Open Source Enthusiast**
+
+---
+
 ### Hi there 👋
 
 - My Web: [My WebSite](https://www.ruifigueiredo.me/)
