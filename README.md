@@ -54,6 +54,12 @@ tooling: [Git, GitHub, VS Code, Figma]
 	</a>
 </p>
 
+<p align="center">
+	<a href="https://github.com/ruifigueiredo">
+		<img width="100%" alt="Rui's GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruifigueiredo&amp;theme=dark" />
+	</a>
+</p>
+
 See my [repositories](https://github.com/ruifigueiredo?tab=repositories) and [contribution activity](https://github.com/ruifigueiredo).
 
 ## `~/profile/lab`
